@@ -1,0 +1,7 @@
+#include "HX711.h"
+
+#define ledon 25
+
+#define emissor 18
+
+#define DOUT 26
